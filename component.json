@@ -1,0 +1,14 @@
+{
+  "name": "sifter",
+  "repo": "jnoksoko/sifter",
+  "description": "Sifter component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "Apache",
+  "main": "sifter.js",
+  "scripts": [
+    "sifter.js"
+  ]
+}
